@@ -1,0 +1,4 @@
+.idea/
+so/*
+!so/so.go
+goso
